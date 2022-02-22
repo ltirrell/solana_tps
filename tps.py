@@ -1,7 +1,7 @@
 import altair as alt
 import numpy as np
 import pandas as pd
-from scipy.stats import spearmanr, ttest_ind
+from scipy.stats import spearmanr
 import streamlit as st
 
 
